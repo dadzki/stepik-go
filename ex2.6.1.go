@@ -15,7 +15,6 @@ func divide(a int, b int) (int, error) {
 }
 
 func main() {
-	panic("!!!!!!!!!!!")
 	var a, b, res int
 
 	fmt.Scan(&a, &b)

@@ -20,6 +20,11 @@ func M() float64 {
 }
 
 func main() {
+
+	var s = []map[int]string{}
+	var s []map[int]int
+	m := make(map[float32]int)
+
 	k, p, v = 1296, 6, 6
 	fmt.Println(T())
 }
